@@ -1,2 +1,0 @@
-# LMS_Backend
-S_LMS_Backend_deployment
